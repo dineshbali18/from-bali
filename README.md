@@ -7,3 +7,7 @@ I absolutely love **Upland Bistro** because of its **exquisite cuisine** and **i
 1. BBQ Chicken Steak
 2. Chelo Kebab
 3. Grilled Chicken
+
+* Sam's Graddle
+* R K Beach
+* Kailasagiri
