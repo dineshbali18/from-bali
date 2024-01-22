@@ -12,4 +12,4 @@ I absolutely love **Upland Bistro** because of its **exquisite cuisine** and **i
 * R K Beach
 * Kailasagiri
 
-[Link to MyMedia.md](/from-bali/MyMedia.md)
+[Link to MyMedia.md](/MyMedia.md)
