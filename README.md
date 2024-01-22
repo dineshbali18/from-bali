@@ -11,3 +11,5 @@ I absolutely love **Upland Bistro** because of its **exquisite cuisine** and **i
 * Sam's Graddle
 * R K Beach
 * Kailasagiri
+
+[Link to MyMedia.md](/from-bali/MyMedia.md)
