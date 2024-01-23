@@ -16,7 +16,7 @@ I absolutely love **Upland Bistro** because of its **exquisite cuisine** and **i
 
 ---
 
-# My Top Recommendations
+## My Top Recommendations
 The table below displays my recommendations for the top Telugu songs. Also includes **Name**, **Reason** and **Composer**
 |Name|Reason|Composer|
 |---|---|---|
@@ -26,7 +26,7 @@ The table below displays my recommendations for the top Telugu songs. Also inclu
 |Kollagottey|Catchy hook, vibrant energy, and Anirudh's infectious groove make Kollagottey an irresistible dancefloor anthem|Anirudh Ravichander|
 
 ---
-# Favourite Quotes
+## Favourite Quotes
 
 > If you want to shine like a sun, first burn like a sun
 
