@@ -33,3 +33,15 @@ The table below displays my recommendations for the top Telugu songs. Also inclu
 > To succeed in your mission, you must have single-minded devotion to your goal.
 
 Author Name: *APJ Abdul Kalam*
+
+---
+## Code Fencing
+
+The below typescript code defines a function named compact.
+it takes array as an argument of any type and it filter the elements present in the array by removing the falsy values such as false,0,"",null,undefined,NaN from the array and returns a new array which contains only the truthy values.
+
+```
+const compact = (arr: any[]) => arr.filter(Boolean);
+```
+
+[Reference for the above snippet](https://code.pieces.app/collections/typescript)
