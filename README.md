@@ -24,3 +24,12 @@ The table below displays my recommendations for the top Telugu songs. Also inclu
 |Humma Humma|feel-good love song that connects with heart |Shekarchandra|
 |BheemlaNayak|powerful and energetic song that gives you the energy |Thaman S|
 |Kollagottey|Catchy hook, vibrant energy, and Anirudh's infectious groove make Kollagottey an irresistible dancefloor anthem|Anirudh Ravichander|
+
+---
+# Favourite Quotes
+
+> If you want to shine like a sun, first burn like a sun
+
+> To succeed in your mission, you must have single-minded devotion to your goal.
+
+Author Name: *APJ Abdul Kalam*
