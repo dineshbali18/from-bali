@@ -13,3 +13,14 @@ I absolutely love **Upland Bistro** because of its **exquisite cuisine** and **i
 * Kailasagiri
 
 [Link to MyMedia.md](/MyMedia.md)
+
+---
+
+# My Top Recommendations
+The table below displays my recommendations for the top Telugu songs. Also includes **Name**, **Reason** and **Composer**
+|Name|Reason|Composer|
+|---|---|---|
+|Arabic Kuthu|The song has simple yet catchy lyrics, and some say it's a catchy dance track|Anirudh Ravichander|
+|Humma Humma|feel-good love song that connects with heart |Shekarchandra|
+|BheemlaNayak|powerful and energetic song that gives you the energy |Thaman S|
+|Kollagottey|Catchy hook, vibrant energy, and Anirudh's infectious groove make Kollagottey an irresistible dancefloor anthem|Anirudh Ravichander|
